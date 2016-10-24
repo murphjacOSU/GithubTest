@@ -6,4 +6,6 @@ int main(int argc, char* argv[])
     {
         x++;
     }
+
+    printf("%d\n", x);
 }
